@@ -1,4 +1,4 @@
-  Feature: Test for GNB Sudameris
+Feature: Test for GNB Sudameris
 
 Scenario: Definition tip percentage
   Given I launch fastip App

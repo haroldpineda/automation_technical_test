@@ -55,6 +55,7 @@ DEPENDENCIES
   appium_lib
   byebug
   cucumber
+  selenium-webdriver
 
 BUNDLED WITH
    2.1.4

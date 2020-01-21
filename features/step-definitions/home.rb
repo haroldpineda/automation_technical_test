@@ -13,3 +13,7 @@ end
 And ("I press the save setting button")do
 
 end
+
+And ("I valid the percentage defined in the tip amount field")do
+
+end

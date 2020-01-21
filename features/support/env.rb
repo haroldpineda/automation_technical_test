@@ -2,7 +2,6 @@ require 'appium_lib'
 require 'byebug'
 require 'cucumber'
 require 'selenium-webdriver'
-require 'bundler/setup'
 
 def caps
   { caps: {

@@ -5,4 +5,4 @@ Scenario: Definition tip percentage
   Then I press the tool button
   And I want to define the tip percentage "13"
   And I press the save setting button
-  And I valid the percentage defined in the tip amount field
+  And I valid the percentage "13" defined in the tip amount field

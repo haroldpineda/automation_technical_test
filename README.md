@@ -12,6 +12,8 @@ In this proyect run automated bdd tests for Android whit APK CopyofFasTip includ
 * Xcode installed: https://stackoverflow.com/questions/10335747/how-to-download-xcode-dmg-or-xip-file
 * Ruby 2.7.0: https://www.ruby-lang.org/en/downloads/
 * Genymotion: https://www.genymotion.com/
+* VirtualBox : https://www.virtualbox.org/
+
 
 # If you use zsh use the following environment variables
 
@@ -69,4 +71,12 @@ Install bundler and the gems the framework is dependent on
     bundle install
 
 ## Running tests
-    cucumber
+Note: start the appium server in console using: 
+  
+    $ appium
+
+Note two: open genymotion and run the emulator with the desired device.
+
+RUN TEST CASES IN CONSOLE WITH:
+
+    $ cucumber 

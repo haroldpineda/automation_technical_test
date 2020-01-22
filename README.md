@@ -30,4 +30,4 @@ Install bundler and the gems the framework is dependent on
     bundle install
 
 ## Running tests
- cucumber
+    cucumber

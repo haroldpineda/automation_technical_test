@@ -8,5 +8,6 @@ gem 'appium_lib'
 gem 'byebug'
 gem 'cucumber'
 gem 'selenium-webdriver'
+gem 'rspec-expectations'
 
 # gem "rails"
